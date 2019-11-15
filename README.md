@@ -13,15 +13,15 @@ Our project focused on 3 major questions. Was the radation levels consistent on 
 
 The first question about radation levels on a month to month basis was answered using ANOVA test. As you see the null was rejected here aswell and there is a difference in radation based on month.
 
-
+![alt text](https://github.com/kmcnicoll/Project2.0/blob/master/Screen%20Shot%202019-11-14%20at%203.59.01%20PM.png)
 
 After seeing the results of the 1st question we were curious if the outlayers shown above from the month of May, were soley a seasonal anomily or if they were connected to certain locations. To answer this we ran another ANOVA test based on location and the NULL was rejected favoring the alternative hypothisis that locations are not equal. From looking at the below graph you can see that Rochester is responisble for the outlayers.
 
-
+![alt text](https://github.com/kmcnicoll/Project2.0/blob/master/Screen%20Shot%202019-11-14%20at%203.58.49%20PM.png)
 
 The final question was answered using a one sample z test. We wanted to see if the Dose exposure was greater in Rochester compared to the rest of the states. Our NULL was the it was equal too the rest of the states. Despite the outlayers, with a P value of .70 we are inclined to accept the null and say the overall radation exposure is equal depending on where you live.
 
-
+![alt text](https://github.com/kmcnicoll/Project2.0/blob/master/Screen%20Shot%202019-11-14%20at%203.00.16%20PM.png)
 
 # Future Applications and Importance
 Gamma radation is not good for homosapiens. A cumulative exposure of 1000 mSv will cause deadly illness's such as cancer in 5/100 victims exposed years later. Our projects mission was to make sure New York States radation levels are safe and on par with eachother. Interestingly in May, in Rochester New York, radation levels were 3 times higher then everywhere else in the state. While it is still considered to be within safe levels it should still be looked into as it is radation in our drinking water.
